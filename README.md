@@ -1,5 +1,5 @@
 # 2048
 
-2️⃣ JavaServer Faces implementation of the 2048 game.
+JavaServer Faces implementation of the 2️⃣0️⃣4️⃣8️⃣ game.
 
 <img src="Capture.PNG" width = 700>
